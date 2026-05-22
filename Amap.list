@@ -1,0 +1,17 @@
+# 高德地图 / AMap - DIRECT
+HOST-SUFFIX,amap.com,DIRECT
+HOST-SUFFIX,autonavi.com,DIRECT
+HOST-SUFFIX,gaode.com,DIRECT
+HOST-SUFFIX,amapauto.com,DIRECT
+HOST-SUFFIX,amap-aos-info-nogw.amap.com,DIRECT
+HOST-SUFFIX,m5.amap.com,DIRECT
+HOST-SUFFIX,m5-zb.amap.com,DIRECT
+HOST-SUFFIX,sns.amap.com,DIRECT
+HOST-SUFFIX,oss.amap.com,DIRECT
+HOST-SUFFIX,ai.amap.com,DIRECT
+
+# 高德地图去广告 - 保守 REJECT 版
+HOST,amap-aos-info-nogw.amap.com,REJECT
+HOST,free-aos-cdn-image.amap.com,REJECT
+HOST-SUFFIX,v.smtcdns.com,REJECT
+HOST-SUFFIX,smtcdns.com,REJECT
