@@ -1,0 +1,18 @@
+# 淘宝 / 天猫 / 阿里系 - 建议直连
+HOST-SUFFIX,taobao.com,DIRECT
+HOST-SUFFIX,tmall.com,DIRECT
+HOST-SUFFIX,tmall.hk,DIRECT
+HOST-SUFFIX,alicdn.com,DIRECT
+HOST-SUFFIX,alibaba.com,DIRECT
+HOST-SUFFIX,alibabausercontent.com,DIRECT
+HOST-SUFFIX,alipay.com,DIRECT
+HOST-SUFFIX,aliyun.com,DIRECT
+HOST-SUFFIX,aliyuncs.com,DIRECT
+HOST-SUFFIX,mmstat.com,DIRECT
+HOST-SUFFIX,cnzz.com,DIRECT
+HOST-SUFFIX,1688.com,DIRECT
+HOST-SUFFIX,xiami.com,DIRECT
+HOST-SUFFIX,etao.com,DIRECT
+HOST-SUFFIX,taopiaopiao.com,DIRECT
+HOST-SUFFIX,fliggy.com,DIRECT
+HOST-SUFFIX,feizhu.com,DIRECT
