@@ -16,3 +16,16 @@ HOST-SUFFIX,etao.com,DIRECT
 HOST-SUFFIX,taopiaopiao.com,DIRECT
 HOST-SUFFIX,fliggy.com,DIRECT
 HOST-SUFFIX,feizhu.com,DIRECT
+
+# 淘宝 / 阿里系广告与统计 - REJECT
+HOST-SUFFIX,adash.m.taobao.com,REJECT
+HOST-SUFFIX,adashx.m.taobao.com,REJECT
+HOST-SUFFIX,adashx.ut.taobao.com,REJECT
+HOST-SUFFIX,adashbc.ut.taobao.com,REJECT
+HOST-SUFFIX,ut.taobao.com,REJECT
+HOST-SUFFIX,umeng.com,REJECT
+HOST-SUFFIX,umengcloud.com,REJECT
+HOST-SUFFIX,umsns.com,REJECT
+HOST-SUFFIX,log.mmstat.com,REJECT
+HOST-SUFFIX,gj.mmstat.com,REJECT
+HOST-SUFFIX,acjs.aliyun.com,REJECT
